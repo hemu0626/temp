@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "index",
+    "section": "",
+    "text": "This is my homepage"
+  },
+  {
+    "objectID": "index.html#homepage",
+    "href": "index.html#homepage",
+    "title": "index",
+    "section": "",
+    "text": "This is my homepage"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "index",
+    "section": "Education",
+    "text": "Education\n\nKCL"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Recent development of pychometrics"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "",
+    "text": "Recent development of pychometrics"
+  }
+]

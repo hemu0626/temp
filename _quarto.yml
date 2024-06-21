@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "Homepage"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+    #  - href: projects.qmd
+    #    text: SURF Intro
+    #  - href: basics.qmd
+    #    text: Basics
+    #  - href: onelayernn.qmd
+    #    text: Machine Learning Methods 
+format: 
+  html: 
+    theme: cosmo
+    toc: true
